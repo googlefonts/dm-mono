@@ -1,6 +1,6 @@
 {
 .appVersion = "1237";
-copyright = "Copyright 2020 The DM Mono Authors (https://www.github.com/googlefonts/dm-mono)";
+copyright = "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)";
 customParameters = (
 {
 name = vendorID;
