@@ -18,7 +18,7 @@ do
 	mv "$ttf.fix" $ttf;
 	gftools fix-hinting $ttf
 	mv "$ttf.fix" $ttf;
-	gftools fix-isfixedpitch $ttf;
+	gftools fix-isfixedpitch --fonts $ttf;
 	mv "$ttf.fix" $ttf;
 done
 
